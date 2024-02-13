@@ -1,5 +1,5 @@
 strinCs
-strincs.o
+strincs.*
 Makefile
 strincs.c
 .gitignore
