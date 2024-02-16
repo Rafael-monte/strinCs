@@ -3,3 +3,4 @@ strincs.*
 Makefile
 strincs.c
 .gitignore
+*.sh
